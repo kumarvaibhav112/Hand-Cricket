@@ -15,24 +15,24 @@ The game follows a realistic sequence of play:
 - Player and computer alternately take turns to bat or bowl.
 - The computer also picks a number from 1 to 6.
 - The sum of both numbers is checked:
-    -- If it matches the player's choice (ODD/EVEN), the player wins the toss.
-    -- Toss winner chooses to Bat or Bowl.
+    - If it matches the player's choice (ODD/EVEN), the player wins the toss.
+    - Toss winner chooses to Bat or Bowl.
 
 ## 🏏 Gameplay Rules
-• Player and computer alternately take turns to bat or bowl.
-• On batting:
-    • Enter a number between 1 to 6.
-    • The computer randomly selects a number.
-    • If both numbers match → player is out.
-    • Otherwise, the number is added to the score.
-• The opponent then plays their inning with the same rules.
-• The game continues until the opponent is out or the score is exceeded.
+- Player and computer alternately take turns to bat or bowl.
+- On batting:
+    - Enter a number between 1 to 6.
+    - The computer randomly selects a number.
+    - If both numbers match → player is out.
+    - Otherwise, the number is added to the score.
+- The opponent then plays their inning with the same rules.
+- The game continues until the opponent is out or the score is exceeded.
 
 ## 🔧 Technologies Used
-• Java
-• Scanner class for input
-• Random class for opponent logic
-• do-while loops and basic control structures
+- Java
+- Scanner class for input
+- Random class for opponent logic
+- do-while loops and basic control structures
 
 ## 📸 Sample Output
 Welcome to Hand Cricket!
