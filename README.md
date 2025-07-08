@@ -34,25 +34,20 @@ The game follows a realistic sequence of play:
 - Random class for opponent logic
 - do-while loops and basic control structures
 
-## 📸 Sample Output
-Welcome to Hand Cricket!
-Choose ODD or EVEN: odd
-Enter your toss number (1-10): 5
-Computer chose: 6
-Sum is 11 — it's ODD
-You won the toss!
-Do you want to bat or bowl? bat
+## 🧠 Possible Enhancements
+- GUI version using JavaFX or Swing
+- Scoreboard tracking multiple games
+- Multiplayer over network
+- Sound effects or animations
 
-You are now batting:
-Enter a number (1-10): 4
-Computer: 2 → Not out! Score: 4
-Enter a number (1-10): 6
-Computer: 6 → You're OUT!
+## 🤝 Contributing
+Feel free to fork this repo, improve the game logic, and make pull requests!
 
-Your total score: 10
-Computer needs 11 to win...
-...
-Result: You win!
+## 📄 License
+This project is open source and free to use for learning or personal projects.
+
+## ✨ Credits
+Inspired by our childhood hand cricket battles.
 
 
 
