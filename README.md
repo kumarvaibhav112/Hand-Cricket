@@ -15,8 +15,8 @@ The game follows a realistic sequence of play:
 - Player and computer alternately take turns to bat or bowl.
 - The computer also picks a number from 1 to 6.
 - The sum of both numbers is checked:
-    - If it matches the player's choice (ODD/EVEN), the player wins the toss.
-    - Toss winner chooses to Bat or Bowl.
+    -- If it matches the player's choice (ODD/EVEN), the player wins the toss.
+    -- Toss winner chooses to Bat or Bowl.
 
 ## 🏏 Gameplay Rules
 • Player and computer alternately take turns to bat or bowl.
